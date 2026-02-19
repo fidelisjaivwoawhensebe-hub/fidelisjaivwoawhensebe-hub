@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Fidelis 👋
 
-<!--
-**fidelisjaivwoawhensebe-hub/fidelisjaivwoawhensebe-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Entry-Level Cybersecurity Analyst  
+📍 Nigeria  
+🎯 Focus: SIEM | Threat Detection | Network Security  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+- Splunk (Log Analysis & Basic SIEM Monitoring)
+- Nmap (Network Scanning)
+- Wireshark
+- Linux Fundamentals
+- Incident Response Basics
+- TCP/IP & Networking Concepts
+
+---
+
+## 📂 Current Projects
+- SOC Analyst Labs
+- Network Scanning Reports
+- Incident Response Playbooks
+- Cybersecurity Documentation
+
+---
+
+## 🚀 Career Goal
+To grow into a professional SOC Analyst and contribute to protecting digital infrastructures through strong analytical and defensive security skills.
+
+---
+
+Currently building hands-on cybersecurity labs and documenting practical learning experiences.
